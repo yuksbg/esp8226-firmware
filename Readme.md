@@ -11,4 +11,5 @@ Download latest esptool from https://github.com/espressif/esptool
 esptool.py write_flash 0x0 ./firmware.bin
 ```
 
-![Alt text](.github/shot_2.png?raw=true "Screenshot")
+![Sreenshot](.github/shot_2.png?raw=true "Screenshot")
+![Sreenshot](.github/shot_3.png?raw=true "Screenshot")
