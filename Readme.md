@@ -10,3 +10,5 @@ Download latest `firmware.bin` from "releases" tab and run
 ```
 esptool.py write_flash 0x0 ./firmware.bin
 ```
+
+![Alt text](.github/shot_1.png?raw=true "Screenshot")
